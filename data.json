@@ -1,0 +1,20 @@
+{
+    "users": [
+        7847189406,
+        7817020913
+    ],
+    "channels": [],
+    "groups": [],
+    "user_data": {
+        "7817020913": {
+            "has_introduced": true
+        },
+        "7847189406": {
+            "has_introduced": false
+        },
+        "7888076159": {
+            "has_introduced": true
+        }
+    },
+    "admins": []
+}
