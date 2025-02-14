@@ -31,3 +31,21 @@ python bot.py
 /broadcast - Send broadcast message (admin only)
 /addgroup - Add a group
 /admin - View bot statistics (admin only)
+
+# Initialize git repository if not already initialized
+git init
+
+# Add all files to git
+git add .
+
+# Create initial commit
+git commit -m "Initial commit: Telegram Auto Request Accept Bot"
+
+# Add your GitHub repository as remote (replace with your repository URL)
+git remote add origin [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/python-telegram-bot/python-telegram-bot)
+
+# Push to GitHub
+git branch -M main
+git push -u origin main
+
+
