@@ -15,3 +15,12 @@ A Telegram bot that automatically accepts join requests and manages broadcast me
 ```bash
 git clone https://github.com/topu1999/Telegram-bot-that-automatically.git
 cd <repo-name>
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Set up environment variables Create a .env file with:
+TELEGRAM_BOT_TOKEN=your_bot_token_here
+
+4. Run the bot
+python bot.py
