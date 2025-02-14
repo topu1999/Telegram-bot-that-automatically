@@ -24,3 +24,10 @@ TELEGRAM_BOT_TOKEN=your_bot_token_here
 
 4. Run the bot
 python bot.py
+
+
+5. Commands
+/start - Start the bot
+/broadcast - Send broadcast message (admin only)
+/addgroup - Add a group
+/admin - View bot statistics (admin only)
