@@ -13,5 +13,5 @@ A Telegram bot that automatically accepts join requests and manages broadcast me
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/topu1999/Telegram-bot-that-automatically.git
 cd <repo-name>
